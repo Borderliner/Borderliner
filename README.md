@@ -20,6 +20,10 @@
   <img alt="Borderliner's GitLab" width="40px" src="https://raw.githubusercontent.com/Borderliner/Borderliner/main/gitlab.png" />
 </a>
 
+<a href="https://stackoverflow.com/users/2290639/reza-hajianpour">
+  <img alt="Borderliner's StackOverflow" width="40px" src="https://raw.githubusercontent.com/Borderliner/Borderliner/main/stackoverflow.png" />
+</a>
+
 <a href="https://metrics.lecoq.io/insights/Borderliner">
   <img alt="Borderliner's Metrics" width="40px" src="https://raw.githubusercontent.com/Borderliner/Borderliner/main/1340003.png" />
 </a>
