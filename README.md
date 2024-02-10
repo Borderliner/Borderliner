@@ -1,5 +1,5 @@
-### Let's code into the future!
 <p align="center">
+<h2>Let's code into the future!</h2>
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 
 
