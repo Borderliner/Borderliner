@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**Borderliner/Borderliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<a href="https://www.linkedin.com/in/hajianpour/">
+  <img alt="Borderliner's LinkdeIn" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  
+<br>
+  
+
+
+
+
+ ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+</p>
+
+<div align="center">
+
+<br/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borderliner&layout=compact&theme=dracula&private=true">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Borderliner&show_icons=true&theme=dracula&count_private=true&private=true">
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/Borderliner/count.svg)
+
+</div>
