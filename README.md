@@ -1,8 +1,8 @@
+# Reza Hajianpour
+<h2 align="center">Let's code into the future!</h2>
 <p align="center">
-<h2>Let's code into the future!</h2>
+
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-
-
 <br/>
 <a href="https://www.linkedin.com/in/hajianpour/">
   <img alt="Borderliner's LinkdeIn" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
