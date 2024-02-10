@@ -1,6 +1,5 @@
+### Let's code into the future!
 <p align="center">
-
-  
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 
 
@@ -9,10 +8,6 @@
   <img alt="Borderliner's LinkdeIn" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
   
 <br>
-  
-
-
-
 
  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
