@@ -1,7 +1,7 @@
-# Reza Hajianpour
-<h2 align="center">Let's code into the future!</h2>
-<p align="center">
+<h1 align="center">Reza Hajianpour</h1>
+<h3 align="center">Let's code into the future!</h3>
 
+<p align="center">
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 <br/>
 <a href="https://www.linkedin.com/in/hajianpour/">
