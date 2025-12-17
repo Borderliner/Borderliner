@@ -5,7 +5,7 @@
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 </p>
 <br/>
-<p>I'm an experienced software engineer from Zanjan, Iran. I enjoy coding and discovering new technologies, everything from low-level system programming to web and android apps.</p>
+<p>I'm an enthusiastic software engineer. I enjoy coding and discovering new technologies, everything from low-level system programming to web, mobile and desktop apps.</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hajianpour/">
