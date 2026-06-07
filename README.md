@@ -41,6 +41,4 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Borderliner&show_icons=true&theme=dracula&count_private=true&private=true">
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/Borderliner/count.svg)
-
 </div>
